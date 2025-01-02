@@ -22,3 +22,15 @@
 - **[ncp-go-sdk-v2](github.com/NaverCloudPlatform/ncloud-sdk-go-v2)**
 - **[oci-go-sdk](github.com/oracle/oci-go-sdk)**
 - **[nhncloud-go-sdk](github.com/cloud-barista/nhncloud-sdk-go)**
+
+## Logger
+- **[zap](go.uber.org/zap)**
+- **[zerolog](github.com/rs/zerolog)**
+
+## ORM
+- **[gorm](gorm.io/gorm)**
+- **[sqlc](github.com/sqlc-dev/sqlc)**
+- **[sqlx](github.com/jmoiron/sqlx)**
+
+## util
+- **[structs](github.com/fatih/structs)**
