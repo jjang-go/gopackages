@@ -15,6 +15,13 @@
 ## System
 
 - **[SysInfo](github.com/zcalusic/sysinfo)** : linux system info
+- **[Daemon](github.com/sevlyar/go-daemon)**
+- **[Script](github.com/bitfield/script)**
+
+## Config
+- **[Dotenv](github.com/joho/godotenv)** : DotEnv Load package
+- **[Viper](github.com/spf13/viper)** : credentials 구성 툴
+- **[Env](github.com/caarlos0/env/v11)** : env를 구조체에 매핑
 
 ## Cloud
 
