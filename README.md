@@ -16,8 +16,8 @@
 ## System
 
 - **[SysInfo](github.com/zcalusic/sysinfo)** : linux system info
-- **[Daemon](github.com/sevlyar/go-daemon)**
-- **[Script](github.com/bitfield/script)**
+- **[Daemon](github.com/sevlyar/go-daemon)** : daemon setting
+- **[Script](github.com/bitfield/script)** : linux 명령어를 golang으로
 
 ## Config
 - **[Dotenv](github.com/joho/godotenv)** : DotEnv Load package
