@@ -6,6 +6,7 @@
 - **[Bubble Tea](github.com/charmbracelet/bubbletea)** : TUI 구성
 - **[Gotty](github.com/yudai/gotty)** : 웹으로 터미널 공유
 - **[Pipeform](github.com/magodo/pipeform)** : terraform을 TUI로
+- **[Superfile](github.com/yorukot/superfile)** : 터미널 TUI
 
 ## Web F/W
 
