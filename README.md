@@ -4,9 +4,6 @@
 
 - **[Cobra-cli](https://github.com/spf13/cobra)** : CLI 구성
 - **[Bubble Tea](https://github.com/charmbracelet/bubbletea)** : TUI 구성
-- **[Gotty](https://github.com/yudai/gotty)** : 웹으로 터미널 공유
-- **[Pipeform](https://github.com/magodo/pipeform)** : terraform을 TUI로
-- **[Superfile](https://github.com/yorukot/superfile)** : 터미널 TUI
 
 ## Web F/W
 
@@ -43,3 +40,15 @@
 
 ## util
 - **[structs](https://github.com/fatih/structs)**
+
+## Third-Party
+
+### TTY
+- **[Gotty](https://github.com/yudai/gotty)** : 웹으로 터미널 공유
+
+### TUI
+- **[Pipeform](https://github.com/magodo/pipeform)** : terraform을 TUI로
+- **[Superfile](https://github.com/yorukot/superfile)** : 터미널 TUI
+
+### Monitoring
+- **[Beszel](https://github.com/henrygd/beszel)** Docker 모니터링
