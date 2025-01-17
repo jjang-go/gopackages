@@ -43,12 +43,17 @@
 
 ## Third-Party
 
+### Web Hosting
+- **[Memos](https://github.com/usememos/memos)** : Docker 호스팅
+
 ### TTY
 - **[Gotty](https://github.com/yudai/gotty)** : 웹으로 터미널 공유
 
 ### TUI
 - **[Pipeform](https://github.com/magodo/pipeform)** : terraform을 TUI로
 - **[Superfile](https://github.com/yorukot/superfile)** : 터미널 TUI
+- **[Lazyjournal](https://github.com/Lifailon/lazyjournal)** : system log and Docker, Podman TUI
+- **[](github.com/daytonaio/daytona)**: 오픈소스 개발 환경 관리 툴
 
 ### Monitoring
 - **[Beszel](https://github.com/henrygd/beszel)** Docker 모니터링
