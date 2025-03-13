@@ -20,6 +20,7 @@
 ## Config
 - **[Dotenv](https://github.com/joho/godotenv)** : DotEnv Load package
 - **[Viper](https://github.com/spf13/viper)** : credentials 구성 툴
+- **[Koanf](https://github.com/knadh/koanf)** : viper 대체 가능한 패키지. 좀 더 유연, 적은 종속성
 - **[Env](https://github.com/caarlos0/env)** : env를 구조체에 매핑
 
 ## Cloud
