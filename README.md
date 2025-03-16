@@ -14,6 +14,7 @@
 ## System
 
 - **[SysInfo](https://github.com/zcalusic/sysinfo)** : linux system info
+- **[Gopsutil](https://github.com/shirou/gopsutil)** : get computer resource
 - **[Daemon](https://github.com/sevlyar/go-daemon)** : daemon setting
 - **[Script](https://github.com/bitfield/script)** : linux 명령어를 golang으로
 
