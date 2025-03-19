@@ -42,6 +42,7 @@
 
 ## util
 - **[structs](https://github.com/fatih/structs)**
+- **[self-update](https://github.com/creativeprojects/go-selfupdate)**
 
 ## Third-Party
 
