@@ -4,6 +4,7 @@
 
 - **[Cobra-cli](https://github.com/spf13/cobra)** : CLI 구성
 - **[Bubble Tea](https://github.com/charmbracelet/bubbletea)** : TUI 구성
+- **[Chiko](https://github.com/felangga/chiko)** : TUI gRPC 클라이언트
 
 ## Web F/W
 
